@@ -23,7 +23,7 @@ I am developing myself in the field of Backend Web Development. I have basic kno
 
 Skills: JAVA, JS, OOP, AUTOCAD
 
-<a href="https://linkedin.com/in/ilaydaydın" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilaydaydın" height="30" width="40" /><a 
+<a href="https://linkedin.com/in/ilaydaydın" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilaydaydın" height="30" width="40" />
 
 ![Profile views](https://gpvc.arturio.dev/ilaydaydx)
 

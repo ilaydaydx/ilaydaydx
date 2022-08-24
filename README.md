@@ -2,6 +2,8 @@
 <h3 align="center">
      <br>Welcome to my GitHub!
 </h3>
+<h1 align="center">Hi 👋, I'm Umut Polat</h1>
+<h3 align="center">A passionate Junior developer from Turkia</h3>
 
 ### <h1 align="center">Hi there, I'm İlayda Aydın </a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1>
 

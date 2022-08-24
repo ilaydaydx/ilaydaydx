@@ -42,3 +42,4 @@ Skills: JAVA, JS, OOP, AUTOCAD
 ![GitHub metrics](https://metrics.lecoq.io/ilaydaydx)
 
 
+<a href="https://instagram.com/ilaydaydx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilaydaydx" height="30" width="40" /></a>

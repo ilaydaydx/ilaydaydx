@@ -18,10 +18,12 @@ I have good Java, intermediate C and JavaScript software knowledge.
 I am developing myself in the field of Backend Web Development. I have basic knowledge in MATLAB, Python, SQL technologies.
 
 - 🌱 I’m currently learning Java with Backend Web Development Path 
-- <h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/umut-polat](https://www.linkedin.com/in/www.linkedin.com/in/ilaydaydın/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut-polat" height="30" width="40" /></a>
-<a href="[https://instagram.com/umutt_polat](https://www.instagram.com/https://www.instagram.com/ilaydaydx//)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umutt_polat" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/umut-polat](https://www.linkedin.com/in/ilaydayd%C4%B1n/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilaydaydx" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/gausmaxwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gausmaxwell" height="30" width="40" /></a>
+<a href="https://instagram.com/umutt_polat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umutt_polat" height="30" width="40" /></a>
 <a href="https://medium.com/@umut_polat_g-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umut_polat_g-m" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/umut_polat_272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umut_polat_272" height="30" width="40" /></a>
 </p>
@@ -33,7 +35,7 @@ I am developing myself in the field of Backend Web Development. I have basic kno
 Skills: JAVA, JS, OOP, AUTOCAD
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilaydaydx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ilaydaydın/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ilaydaydx//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](ilaydaayda2002@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilaydaydx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/www.linkedin.com/in/ilaydaydın/](https://www.linkedin.com/in/ilaydayd%C4%B1n/))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ilaydaydx//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](ilaydaayda2002@gmail.com)  
 
 
 ![Profile views](https://gpvc.arturio.dev/ilaydaydx)

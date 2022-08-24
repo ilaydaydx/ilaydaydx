@@ -23,7 +23,6 @@ Skills: JAVA, JS, OOP, AUTOCAD
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilaydaydx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ilaydaydın/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ilaydaydx//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](ilaydaayda2002@gmail.com)  
 
-![GitHub metrics](https://metrics.lecoq.io/ilaydaydx)
 
 ![Profile views](https://gpvc.arturio.dev/ilaydaydx)
 
@@ -35,4 +34,4 @@ Skills: JAVA, JS, OOP, AUTOCAD
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ilaydaydx)  
 
-
+![GitHub metrics](https://metrics.lecoq.io/ilaydaydx)

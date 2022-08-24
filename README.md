@@ -21,7 +21,6 @@ I am developing myself in the field of Backend Web Development. I have basic kno
 - 💬 Ask me about **any question.**
 - 📫 How to reach me **ilaydaayda2002@gmail.com**
 
-Skills: JAVA, JS, OOP, AUTOCAD
 
 <a href="https://linkedin.com/in/ilaydaydın" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilaydaydın" height="30" width="40" />
 

@@ -1,9 +1,9 @@
+### Hi there 👋, my name is İlayda Aydın
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/ilaydaydx?label=Follow%20Me&style=social)](https://github.com/ilaydaydx)
 <br>
 <br>
 
-### Hi there 👋, my name is İlayda Aydın
 I am a 2nd year student at Alanya Alaaddin Keykubat University. I am studying electrical and electronics engineering. 
 
 My electronics and software adventure started because of my interest in Unmanned Aerial Vehicles. I have been developing Teknofest and Tubitak projects since 2018. I run the software together with the Electrical and Electronics Engineering department.

@@ -1,3 +1,8 @@
+-->
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)]([https://github.com/Ahmad-Sawalqeh](https://github.com/ilaydaydx))
+<br>
+<br>
+
 ### Hi there 👋, my name is İlayda Aydın
 I am a 2nd year student at Alanya Alaaddin Keykubat University. I am studying electrical and electronics engineering. 
 

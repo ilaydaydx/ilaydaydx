@@ -21,7 +21,7 @@ I am developing myself in the field of Backend Web Development. I have basic kno
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.linkedin.com/in/ilaydayd%C4%B1n/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut-polat" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/ilaydaydın)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilaydaydın" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/gausmaxwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gausmaxwell" height="30" width="40" /></a>
 <a href="https://instagram.com/umutt_polat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umutt_polat" height="30" width="40" /></a>
 <a href="https://medium.com/@umut_polat_g-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umut_polat_g-m" height="30" width="40" /></a>

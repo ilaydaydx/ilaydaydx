@@ -20,10 +20,8 @@ Skills: JAVA, JS, OOP, AUTOCAD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilaydaydx)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilaydaydx&show_icons=true)   
-
-![GitHub metrics](https://metrics.lecoq.io/ilaydaydx)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilaydaydx&show_icons=true)     
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ilaydaydx)  
 
-  
+![GitHub metrics](https://metrics.lecoq.io/ilaydaydx)

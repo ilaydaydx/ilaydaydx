@@ -7,9 +7,9 @@ I am proficient in advanced AutoCAD and SolidWorks modeling and design software.
 I have good Java, intermediate C and JavaScript software knowledge.
 I am developing myself in the field of Backend Web Development. I have basic knowledge in MATLAB, Python, SQL technologies.
 
-Skills: JAVA, JS, OOP, AUTOCAD
-
 - 🌱 I’m currently learning Java with Backend Web Development Path 
+- 
+Skills: JAVA, JS, OOP, AUTOCAD
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilaydaydx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ilaydaydın/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ilaydaydx//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](ilaydaayda2002@gmail.com)  

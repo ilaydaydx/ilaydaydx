@@ -23,7 +23,7 @@ I am developing myself in the field of Backend Web Development. I have basic kno
 
 Skills: JAVA, JS, OOP, AUTOCAD
 
-<a href="https://linkedin.com/in/ilaydaydın" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilaydaydın" height="30" width="40" /></a> <a href="https://instagram.com/ilaydaydx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilaydaydx" height="30" width="40" /></a>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilaydaydx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](ilaydaayda2002@gmail.com)  
+<a href="https://linkedin.com/in/ilaydaydın" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilaydaydın" height="30" width="40" /></a> <a href="https://instagram.com/ilaydaydx" target="blank"><  
 
 
 ![Profile views](https://gpvc.arturio.dev/ilaydaydx)

@@ -13,7 +13,7 @@ I have good Java, intermediate C and JavaScript software knowledge.
 I am developing myself in the field of Backend Web Development. I have basic knowledge in MATLAB, Python, SQL technologies.
 
 - 🌱 I’m currently learning Java with Backend Web Development Path 
-- 
+
 Skills: JAVA, JS, OOP, AUTOCAD
 
 

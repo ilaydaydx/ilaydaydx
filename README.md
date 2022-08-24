@@ -3,14 +3,11 @@
      <br>Welcome to my GitHub!
 </h3>
 
+<h1 align="center">Hi there, I'm İlayda Aydın </a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1> <h3 align="center">A passionate Junior developer from Turkia</h3>
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/ilaydaydx?label=Follow%20Me&style=social)](https://github.com/ilaydaydx)
 <br>
 <br>
-
-
-<h1 align="center">Hi there, I'm İlayda Aydın </a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1> <h3 align="center">A passionate Junior developer from Turkia</h3>
-
 
 
 I am a 2nd year student at Alanya Alaaddin Keykubat University. I am studying electrical and electronics engineering. 

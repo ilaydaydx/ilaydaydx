@@ -10,12 +10,9 @@
 <br>
 
 
-My electronics and software adventure started because of my interest in Unmanned Aerial Vehicles. I have been developing Teknofest and Tubitak projects since 2018. I run the software together with the Electrical and Electronics Engineering department.
+I am a 2nd year electrical and electronics engineering student at Alanya Alaaddin Keykubat University.
 
-I am proficient in advanced AutoCAD and SolidWorks modeling and design software.
-I have intermediate Java software knowledge.
-
-I am developing myself in the field of Android Development. 
+I have intermediate Java software knowledge. I am developing myself in the field of Android Development. 
 I have basic knowledge in EPLAN, MATLAB and SQL technologies.
 
 - 🌱 I’m currently learning Java with Backend Web Development Path 

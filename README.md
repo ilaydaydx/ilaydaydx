@@ -40,15 +40,6 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilaydaydx)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilaydaydx&show_icons=true)     
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ilaydaydx)  
-
-![GitHub metrics](https://metrics.lecoq.io/ilaydaydx)
-
-
 
 
 

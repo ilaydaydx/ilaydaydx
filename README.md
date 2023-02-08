@@ -19,6 +19,8 @@ I have basic knowledge in EPLAN, MATLAB and SQL technologies.
 - 💬 Ask me about **any question.**
 - 📫 How to reach me **ilaydaayda2002@gmail.com**
 
+![Profile views](https://gpvc.arturio.dev/ilaydaydx) 
+
 <h3 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/ilaydaaydin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilaydaaydin" height="30" width="40" />
@@ -35,7 +37,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 
 
 
-![Profile views](https://gpvc.arturio.dev/ilaydaydx) 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilaydaydx)](https://github.com/anuraghazra/github-readme-stats)
 

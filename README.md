@@ -37,7 +37,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 
 
 
-
+![Profile views](https://gpvc.arturio.dev/ilaydaydx) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilaydaydx)](https://github.com/anuraghazra/github-readme-stats)
 

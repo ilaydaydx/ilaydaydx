@@ -26,7 +26,7 @@ I have basic knowledge in EPLAN, MATLAB and SQL technologies.
 </p>
 
 
-
+/*
 ![Profile views](https://gpvc.arturio.dev/ilaydaydx)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ilaydaydx)](https://github.com/ryo-ma/github-profile-trophy)
@@ -37,6 +37,6 @@ I have basic knowledge in EPLAN, MATLAB and SQL technologies.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ilaydaydx)  
 
-![GitHub metrics](https://metrics.lecoq.io/ilaydaydx)
+![GitHub metrics](https://metrics.lecoq.io/ilaydaydx)*/
 
 

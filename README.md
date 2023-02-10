@@ -9,7 +9,6 @@
 <br>
 <br>
 
-
 ![Profile views](https://gpvc.arturio.dev/ilaydaydx) 
 
 I am a 2nd year electrical and electronics engineering student at Alanya Alaaddin Keykubat University.

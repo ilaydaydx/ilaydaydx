@@ -38,9 +38,6 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 
 
 
-![Profile views](https://gpvc.arturio.dev/ilaydaydx)
-
-
 
 
 

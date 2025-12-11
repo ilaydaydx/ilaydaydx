@@ -18,7 +18,7 @@ I have basic knowledge in EPLAN, MATLAB and SQL technologies.
 
 - 🌱 I’m currently learning Java with Backend Web Development Path 
 - 💬 Ask me about **any question.**
-- 📫 How to reach me **ilaydaayda2002@gmail.com**
+- 📫 How to reach me **ilaydydin@gmail.com**
 
 
 

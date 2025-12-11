@@ -11,7 +11,7 @@
 
 
 
-I am a 2nd year electrical and electronics engineering student at Alanya Alaaddin Keykubat University.
+I am a 4nd year electrical and electronics engineering student at Alanya Alaaddin Keykubat University.
 
 I have intermediate Java software knowledge. I am developing myself in the field of Android Development. 
 I have basic knowledge in EPLAN, MATLAB and SQL technologies.
